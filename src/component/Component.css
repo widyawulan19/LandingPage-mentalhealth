@@ -1,0 +1,390 @@
+
+/* Navigation */
+.navigation-bar{
+    background-color: #43533400;
+    color: white;
+    display: flex;
+    font-family: 'Franklin Gothic Heavy';
+    margin-right: 6vh;
+    padding-top: 2vh;
+}
+.navigation-bar img{
+    height: 10vh;
+    width: 10vh;
+    padding-right: 1vh;
+    padding-left: 14vh;
+}
+.navigation-bar h2{
+    margin-right: 75vh;
+}
+
+.navigation-bar a{
+    padding-top: 4vh;
+    padding-right: 5vh;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+.navigation-bar a:hover{
+    color: #c4b6a3;
+}
+hr{
+    width: 150vh;
+    color: #c4b6a314;
+}
+
+/* End Navigation */
+
+/*----- Hero -----*/
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/public/image/image1.jpg);
+}
+.hero h1{
+    margin-top: 15rem;
+    font-weight: 800;
+    font-size: 60px;
+    color: #e2d0b5;
+}
+.hero p{
+    width: 100vh;
+    text-align: center;
+    margin-left: 40vh;
+    color: #e5ded4;
+    font-size: 25px;
+    font-weight: 500;
+}
+/*----- End Hero -----*/
+
+/*----- Section1 -----*/
+.section1{
+    width: 100%;
+    height: 100vh;
+    background-color: #c4b6a3;
+}
+.section1 h1{
+    margin-top: 2vh;
+    text-align: center;
+    color: #455238;
+}
+
+.section1 .section1-container{
+    display: flex;
+    padding: 2vh;
+    background-color: #c4b6a3;
+}
+.section1 .section1-kiri{
+    width:60% ;
+    height: 70vh;
+    background-color: #455238a0;
+    padding-left: 5vh;
+    padding-top: 5vh;
+    text-align: left;
+    display: flex;
+}
+.section1-kiri p{
+    margin-top: 15vh;
+    width: 65%;
+    height: 50%;
+    font-size: 20px;
+    font-weight: 200;
+    color: #c4b6a3;
+}
+.section1-kiri span{
+    font-size: 30px;
+    font-weight: bold;
+}
+.section1 .section1-kanan{
+    margin-left: 70vh;
+    width:45% ;
+    height: 65vh;
+    /*background-color: #98e74f;*/
+    position: absolute;
+}
+.section1-kanan img{
+    width: 100%;
+    height: 100%;
+}
+/*----- End Section1 -----*/
+
+
+/*----- Section2 -----*/
+.section-section2{
+    background-image: url(/src/image/image8.jpg);
+}
+.section2{
+    width: 100%;
+    height: 100vh;
+    margin-bottom: .5vh;
+    background-color: #c4b6a356;
+    padding-top: 2vh;
+    display: block;
+    color: #36402d;
+}
+.section2 h2{
+    font-size: 40px;
+}
+.section2 .section2-center{
+    background-color: #505b46ea;
+    width: 90%;
+    height: 80%;
+    margin-left: 10vh;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    display: flex;
+}
+
+/*cara satu*/
+.section2-center .satu{
+    width: 30%;
+    /*background-color: rgba(255, 255, 255, 0.144);*/
+    color: #c4b6a3;
+    text-align: left;
+    padding-top: 15vh;
+}
+.satu h3{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 2vh;
+}
+.section2-center .satu p{
+    font-size: 15px;
+    padding: 2vh;
+    font-weight: 100;
+}
+.section2-center .satu span{
+    font-size: 25px;
+    font-weight: 700;
+}
+.satu button{
+    background-color:#36402d;
+    color:#c4b6a3;
+    height: 4vh;
+    width: 15vh;
+    border-radius: 5px;
+    border: 1px solid #c4b6a3 ;
+    margin-left: 22vh;
+}
+.satu button:hover{
+    background-color:#c4b6a3;
+    color:#36402d;
+    border: 1px solid #36402d ;
+}
+/* end cara satu*/
+
+/*cara dua*/
+.section2-center .dua{
+    width: 30%;
+    /*background-color: rgba(255, 255, 255, 0.144);*/
+    color: #c4b6a3;
+    text-align: left;
+    padding-top: 15vh;
+}
+.dua h3{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 2vh;
+}
+.section2-center .dua p{
+    font-size: 15px;
+    padding: 2vh;
+    font-weight: 100;
+}
+.section2-center .dua span{
+    font-size: 25px;
+    font-weight: 700;
+}
+.dua button{
+    background-color:#36402d;
+    color:#c4b6a3;
+    height: 4vh;
+    width: 15vh;
+    border-radius: 5px;
+    border: 1px solid #c4b6a3 ;
+    margin-left: 22vh;
+}
+.dua button:hover{
+    background-color:#c4b6a3;
+    color:#36402d;
+    border: 1px solid #36402d ;
+}
+/* end cara dua*/
+
+/*cara tiga*/
+.section2-center .tiga{
+    width: 30%;
+    /*background-color: rgba(255, 255, 255, 0.144);*/
+    color: #c4b6a3;
+    text-align: left;
+    padding-top: 15vh;
+}
+.tiga h3{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 2vh;
+}
+.section2-center .tiga p{
+    font-size: 15px;
+    padding: 2vh;
+    font-weight: 100;
+}
+.section2-center .tiga span{
+    font-size: 25px;
+    font-weight: 700;
+}
+.tiga button{
+    background-color:#36402d;
+    color:#c4b6a3;
+    height: 4vh;
+    width: 15vh;
+    border-radius: 5px;
+    border: 1px solid #c4b6a3 ;
+    margin-left: 22vh;
+}
+.tiga button:hover{
+    background-color:#c4b6a3;
+    color:#36402d;
+    border: 1px solid #36402d ;
+}
+/* end cara tiga*/
+
+/*cara empat*/
+.section2-center .empat{
+    width: 30%;
+    /*background-color: rgba(255, 255, 255, 0.144);*/
+    color: #c4b6a3;
+    text-align: left;
+    padding-top: 15vh;
+}
+.empat h3{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 2vh;
+}
+.section2-center .empat p{
+    font-size: 15px;
+    padding: 2vh;
+    font-weight: 100;
+}
+.section2-center .empat span{
+    font-size: 25px;
+    font-weight: 700;
+}
+.empat button{
+    background-color:#36402d;
+    color:#c4b6a3;
+    height: 4vh;
+    width: 15vh;
+    border-radius: 5px;
+    border: 1px solid #c4b6a3 ;
+    margin-left: 22vh;
+}
+.empat button:hover{
+    background-color:#c4b6a3;
+    color:#36402d;
+    border: 1px solid #36402d ;
+}
+/* end cara empat*/
+
+/*----- End Section2 -----*/
+
+/*----- Section3 -----*/
+.section3{
+    width: 100%;
+    height: 85vh;
+    margin: 1vh;
+    margin-top: 15vh;
+    display: flex;
+    justify-content: center;
+}
+.section3 .section3-kiri{
+    background-color: #6b795a;
+    height: 70vh;
+    width: 45%;
+    margin-right: 5vh;
+    border-radius: 5%;
+}
+.section3-kiri img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+}
+.section3 .section3-kanan{
+    /*background-color: #6b795a;*/
+    height: 70vh;
+    width: 45%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    color: #36402d;
+}
+.section3-kanan p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.section3-kanan p span{
+    font-size: 35px;
+    font-weight: 600;
+    color: #FAF1E4;
+}
+
+/*----- End Section3 -----*/
+
+/*----- Footer -----*/
+
+.footer{
+    width: 100%;
+    height: 25vh;
+    background-color: #435334;
+    margin-bottom: .5vh;
+    display: flex;
+}
+.footer-kiri{
+    /*background-color: #e5ded4;*/
+    color: #e5ded4;
+    margin: 2vh;
+    margin-right: 0vh;
+    width: 30%;
+    height: 60%;
+    font-size: 20px;
+    padding-top: 3vh;
+    
+}
+.footer-center{
+    color: black;
+    width: 80%;
+    margin: 2vh;
+    display: flex;
+    padding-left: 3vh;
+    padding-right: 3vh;
+}
+.footer-center .footer-satu{
+    background-color: #435334;
+    width: 30%;
+    height: 100%;
+    padding-top: 2vh;
+    font-size: 18px;
+    font-weight: bold;
+}
+.footer-center .footer-dua{
+    background-color: #435334;
+    width: 40%;
+    height: 100%;
+    padding-top: 2vh;
+    font-size: 18px;
+    font-weight: bold;
+}
+.footer-center .footer-tiga{
+    background-color: #435334;
+    width: 20%;
+    height: 100%;
+    padding-top: 2vh;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/*----- End Footer -----*/
