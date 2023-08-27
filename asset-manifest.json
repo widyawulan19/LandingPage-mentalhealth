@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LandingPage-mentalhealth/static/css/main.8f30d703.css",
+    "main.js": "/LandingPage-mentalhealth/static/js/main.885d273b.js",
+    "static/js/787.6606bfd5.chunk.js": "/LandingPage-mentalhealth/static/js/787.6606bfd5.chunk.js",
+    "static/media/image2.jpg": "/LandingPage-mentalhealth/static/media/image2.8b8d7887f1f9dacb03e9.jpg",
+    "static/media/image1.jpg": "/LandingPage-mentalhealth/static/media/image1.f1cc5e5fe9842e7ba421.jpg",
+    "static/media/image8.jpg": "/LandingPage-mentalhealth/static/media/image8.2749b001ec362eda4ec6.jpg",
+    "static/media/image6.jpg": "/LandingPage-mentalhealth/static/media/image6.d52ce0c01556845e7e08.jpg",
+    "static/media/mainlogopng.png": "/LandingPage-mentalhealth/static/media/mainlogopng.a4c48622511fd4ffc378.png",
+    "index.html": "/LandingPage-mentalhealth/index.html",
+    "main.8f30d703.css.map": "/LandingPage-mentalhealth/static/css/main.8f30d703.css.map",
+    "main.885d273b.js.map": "/LandingPage-mentalhealth/static/js/main.885d273b.js.map",
+    "787.6606bfd5.chunk.js.map": "/LandingPage-mentalhealth/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f30d703.css",
+    "static/js/main.885d273b.js"
+  ]
+}
